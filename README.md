@@ -1,6 +1,6 @@
 # Diabetes Prediction Using Machine Learning
 
-##Overview
+## Overview
 This project uses a machine learning approach to predict if a patient has diabetes or not. It includes steps like data cleaning, visualization, modeling, and cross-validation.
 
 
